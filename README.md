@@ -28,13 +28,13 @@
 
 ----------------------------
 [ENDING]
-![캡7](https://user-images.githubusercontent.com/90469593/137514134-af013832-8a9c-48b5-a2a9-a1068f9f8b54.PNG)
+![캡8](https://user-images.githubusercontent.com/90469593/137516084-0e3d41c9-58ed-40a9-8280-f99c545f5095.PNG)
 마침내 당신은 여의주를 가지고 용을 찾아갔습니다. 
 
-![캡8](https://user-images.githubusercontent.com/90469593/137514154-0d7456f9-e21e-4ccd-b33d-901464c4dd80.PNG)
+![캡9](https://user-images.githubusercontent.com/90469593/137516095-1fbb928c-8e86-4749-a8eb-a2da20be6017.PNG)
 시간 내에 보물을 얻은 당신은 기분 좋게 강의실로 들어가고, 게임은 끝이 납니다.
 
 ----------------------------
 [RESTART]
-![캡9](https://user-images.githubusercontent.com/90469593/137514183-6406c346-7ede-4a58-a71b-bfeffa0e76c1.PNG)
+![캡마](https://user-images.githubusercontent.com/90469593/137516124-85319131-5f91-4fd0-bb30-1320215bff58.PNG)
 60초가 지나 게임에 실패하게 되면 게임오버 장면이 나옵니다. 하지만 상심하지 마세요. 하단의 ‘다시 시작’ 버튼을 누르면, 게임을 다시 시작할 수 있습니다!
