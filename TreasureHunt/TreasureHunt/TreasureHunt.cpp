@@ -89,7 +89,11 @@ int main(void)
 
         game1_hide_timer->stop();
         game1_show_timer->stop();
+        game2_hide_timer->stop();
+        game2_show_timer->stop();
         cintamai.tarObj->hide();
+        puang.tarObj->hide();
+        
         return true;
         });
 
