@@ -1,4 +1,4 @@
-# TreasuerHunt
+# TreasureHunt
 
 (해당 게임은 C++과 방탈 라이브러리를 사용해 만든 게임입니다.)
 
